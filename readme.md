@@ -1,25 +1,56 @@
-## NovaUtility is here
+# NovaUtility
 
-A Windows toolkit that brings system information, maintenance tools, and everyday utilities into one interface.
+**Your Windows toolkit. Reimagined.**
 
-### Features
-- Dashboard with CPU, GPU, memory, and storage information
-- Windows optimization tools with backup and undo for supported changes
-- Repair tools for Windows, disks, and networking
-- Startup management and network information
-- Quick access to common Windows utilities
+NovaUtility brings system information, app discovery, optimization, and maintenance tools into one desktop interface for **Windows 10 and Windows 11 (64-bit)**.
 
-### Download and run
-1. Download the attached NovaUtility.rar file.
-2. Extract the entire archive into a folder.
-3. Open the extracted folder and launch NovaUtility.
+[Download the latest release](https://github.com/Dungonmast3r/NovaUtility-Releases/releases/latest) · [Visit the website](https://novautility.online) · [Watch the 30-second demo](https://youtu.be/Mz7g0Nvb7mM) · [Report a bug](https://github.com/Dungonmast3r/NovaUtility-Releases/issues/new)
 
-**Supported systems:** Windows 10 and Windows 11, 64-bit.
+## See it in action
 
-### Feedback and support
-Found a bug? Open an issue with your Windows version, steps to reproduce it, and any error message.
+[![Watch the NovaUtility demo on YouTube](https://img.youtube.com/vi/Mz7g0Nvb7mM/hqdefault.jpg)](https://youtu.be/Mz7g0Nvb7mM)
 
-Website: https://novautility.online
-Optional donations: https://paypal.me/Dungonmast3rGaming
+Click the image to watch the demo on YouTube.
+
+## What you can do
+
+- **Monitor your PC:** view CPU, GPU, memory, and storage information.
+- **Discover apps:** browse the app catalogue and WinGet search.
+- **Explore optimization options:** use Windows tweaks with backup and undo for supported changes.
+- **Find repair tools:** access Windows, disk, and network maintenance utilities.
+- **Manage startup items:** review apps that start with Windows.
+- **Reach everyday utilities:** access common Windows tools from one place.
+
+## Download and run
+
+1. Open the [latest release](https://github.com/Dungonmast3r/NovaUtility-Releases/releases/latest).
+2. Under **Assets**, download **Packaged.rar**.
+3. Extract the **entire archive** using an archive tool that supports RAR files.
+4. Open the extracted folder and launch NovaUtility.
+
+Keep the extracted files together rather than running the application from inside the archive. Review each tool's description before applying system changes; backup and undo apply only to supported changes.
+
+This repository distributes application releases. GitHub's automatically generated **Source code (zip)** and **Source code (tar.gz)** downloads are not the application package.
+
+## Release notes
+
+See [Releases](https://github.com/Dungonmast3r/NovaUtility-Releases/releases) for published builds, release notes, and download assets.
+
+## Feedback and bug reports
+
+[Open an issue](https://github.com/Dungonmast3r/NovaUtility-Releases/issues/new) with:
+
+- Your NovaUtility version and Windows version.
+- The steps needed to reproduce the problem.
+- What you expected and what happened instead.
+- Any error message or relevant screenshot.
+
+Remove personal information from screenshots and logs before posting. Feature suggestions are welcome too—describe the task you want to make easier.
+
+## Support development
+
+If NovaUtility is useful to you, you can [make an optional donation through PayPal](https://paypal.me/Dungonmast3rGaming).
+
+You can also help by reporting bugs, sharing feedback, starring this repository, or sharing the [demo](https://youtu.be/Mz7g0Nvb7mM).
 
 Thank you for trying NovaUtility!
