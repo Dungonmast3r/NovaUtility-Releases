@@ -24,8 +24,8 @@ Click the image to watch the demo on YouTube.
 ## Download and run
 
 1. Open the [latest release](https://github.com/Dungonmast3r/NovaUtility-Releases/releases/latest).
-2. Under **Assets**, download **Packaged.rar**.
-3. Extract the **entire archive** using an archive tool that supports RAR files.
+2. Under **Assets**, download **NovaUtility-0.6.1-win-x64.zip**.
+3. Right-click the ZIP and choose **Extract All** to extract the entire archive.
 4. Open the extracted folder and launch NovaUtility.
 
 Keep the extracted files together rather than running the application from inside the archive. Review each tool's description before applying system changes; backup and undo apply only to supported changes.
